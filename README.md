@@ -1,46 +1,38 @@
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-
-  <br/><br/>
-
-  <h3>🪨 Earth | 🔥 Fire | 💨 Air | 🌊 Water</h3>
-  <p><i>"It is important to draw wisdom from many different places." - Uncle Iroh</i></p>
-
-  <br/>
-
- 
-  3rd-year Computer Engineering student at Tekirdağ Namık Kemal University and Software Team Lead of the ŞAHİ Otonom UAV (SİHA) Team.
-  
-  
-  <br/><br/>
-  
-  <a href="https://linkedin.com/in/ozanardaozcelik" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozan.a.ozcelik@gmail.com&su=GitHub%20İletişim" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="400" style="border-radius: 10px;">
-
-  <br/><br/>
-
-  <a href="./OzanArdaOzcelikCV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="./OzanArdaOzcelikCVeng.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_(EN)-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-
+  <img src="https://media.giphy.com/media/Zu6AATbpPoUgtGhTE7/giphy.gif" width="200" alt="Waving Frog"/>
+  <h1>Hop! Merhaba, Ben Ömer Ata Bebek 🐸</h1>
+  <p><b>Kod gölüme hoş geldiniz! | Welcome to my code pond!</b></p>
+  <p>Burada projelerimi ve dijital maceralarımı bulabilirsiniz.</p>
 </div>
 
-<hr/>
+---
 
 <div align="center">
-  <p><i>"Sharing tea with a fascinating stranger is one of life’s true delights."</i></p>
-  <img src="https://media1.giphy.com/media/ZvJ0bHvAy1N9S/giphy.gif?cid=ecf05e478lq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1&rid=giphy.gif" width="400" />
+  <h3>🚀 Keşfet & İletişime Geç / Explore & Connect</h3>
+  <img src="https://media.giphy.com/media/U7TIU2V9Ug53gR2KxR/giphy.gif" width="150" alt="Pointing Frog"/>
+  <br/>
+  <p>👇 CV'lerimi inceleyebilir veya bana ulaşabilirsin 👇</p>
+
+  <a href="./OmerAta_CV_TR.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Özgeçmiş_(TR)-İncele-2ea44f?style=for-the-badge&labelColor=black" alt="Türkçe CV" />
+  </a>
+   &nbsp; <a href="./OmerAta_CV_EN.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Resume_(EN)-Review-2ea44f?style=for-the-badge&labelColor=black" alt="English CV" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://www.linkedin.com/in/omeratabebek/">
+    <img src="https://img.shields.io/badge/LinkedIn-Bağlan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:omerata@example.com?subject=Githubdan%20ulaşıyorum">
+    <img src="https://img.shields.io/badge/Gmail-Mail_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><i>🐸 Ziyaret ettiğin için teşekkürler! / Thanks for hopping by! 🐸</i></p>
 </div>
