@@ -20,7 +20,7 @@
 
   <br/><br/>
 
-  <h3>📂 Classified Documents (Resumes)</h3>
+  
   <a href="./OmerAta_CV_TR.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-View_File-363636?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Turkish CV" />
   </a>
