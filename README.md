@@ -1,67 +1,46 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Sid4QgwDxJ8l2/giphy.gif" width="100%" style="border-radius: 10px;" alt="Batman Typing"/>
   
-  <h1 style="font-size: 30px;">🦇 I'm Ömer Ata Bebek</h1>
-  <p><b>Computer Engineering Student | Kadir Has University</b></p>
-  
-  <h3 style="color: #FFD700;">🌑 "Dark mode is my only mode."</h3>
-</div>
+  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/banner.jpg" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
 
----
+  <br/><br/>
 
-### 🦇 Origin Story (About Me)
+  <h3>🪨 Earth | 🔥 Fire | 💨 Air | 🌊 Water</h3>
+  <p><i>"It is important to draw wisdom from many different places." - Uncle Iroh</i></p>
 
-I am a 2nd-year Computer Engineering student at Kadir Has University. I am honing my skills in the depths of the software world, focusing on automation and AI.
-
-> *"I go from Tuzla to Kadir Has, my school is very far away... I really need a Batmobile."* 🏎️💨
-
----
-
-### 🌑 Mission Status
-
-* 🔭 Current Mission: ????
-* 🦇 Bat-Gadgets: Python, LLM, Automation, C++
-* 📍 Base of Operations: Istanbul, TR
-
----
-
-<div align="center">
-  <h3>📂 Classified Files (CV & Projects)</h3>
-  
-  <img src="https://media.giphy.com/media/EMpPEre2PqFy8/giphy.gif" width="200" alt="Batman Running"/>
   <br/>
-  <p>👇 Access granted to files below 👇</p>
 
-  <a href="./OmerAta_CV_TR.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🦇_Mission_Report_(TR)-View_File-363636?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Turkish CV" />
-  </a>
-   &nbsp; 
-  <a href="./OmerAta_CV_EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/🦇_Mission_Report_(EN)-View_File-363636?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="English CV" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  <h3>🔦 Activate the Bat-Signal (Contact)</h3>
+ 
+  3rd-year Computer Engineering student at Tekirdağ Namık Kemal University and Software Team Lead of the ŞAHİ Otonom UAV (SİHA) Team.
   
-  <p>Light the signal for collaborations or projects.</p>
+  
+  <br/><br/>
+  
+  <a href="https://linkedin.com/in/ozanardaozcelik" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ozan.a.ozcelik@gmail.com&su=GitHub%20İletişim" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  <a href="https://www.linkedin.com/in/omeratabebek">
-    <img src="https://img.shields.io/badge/Wayne_Network-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn" />
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/ozanardaozcelik/ozanardaozcelik/main/matrix.gif" width="400" style="border-radius: 10px;">
+
+  <br/><br/>
+
+  <a href="./OzanArdaOzcelikCV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:omerata@example.com?subject=Contacting%20via%20GitHub">
-    <img src="https://img.shields.io/badge/Send_Bat_Signal-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
+  <a href="./OzanArdaOzcelikCVeng.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_(EN)-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
+
 </div>
 
----
+<hr/>
 
 <div align="center">
-  <p><i>Gotham is safe... for now.</i></p>
-  <img src="https://media.giphy.com/media/l396BoOTIFqa9BQu4/giphy.gif" width="100%" alt="Batman Cape"/>
+  <p><i>"Sharing tea with a fascinating stranger is one of life’s true delights."</i></p>
+  <img src="https://media1.giphy.com/media/ZvJ0bHvAy1N9S/giphy.gif?cid=ecf05e478lq1q1q1q1q1q1q1q1q1q1q1q1q1q1q1&rid=giphy.gif" width="400" />
 </div>
