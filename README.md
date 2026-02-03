@@ -1,38 +1,40 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Zu6AATbpPoUgtGhTE7/giphy.gif" width="200" alt="Waving Frog"/>
-  <h1>Hop! Merhaba, Ben Ömer Ata Bebek 🐸</h1>
-  <p><b>Kod gölüme hoş geldiniz! | Welcome to my code pond!</b></p>
-  <p>Burada projelerimi ve dijital maceralarımı bulabilirsiniz.</p>
-</div>
-
----
-
-<div align="center">
-  <h3>🚀 Keşfet & İletişime Geç / Explore & Connect</h3>
-  <img src="https://media.giphy.com/media/U7TIU2V9Ug53gR2KxR/giphy.gif" width="150" alt="Pointing Frog"/>
+  <img src="./batcat.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+  
+  <h2 style="color: #FFD700;">🦇 I'm Ömer Ata Bebek</h2>
+  <h3>Motivated Computer Engineering student at Kadir Has University with a strong passion for Artificial Intelligence.</h3>
+  
   <br/>
-  <p>👇 CV'lerimi inceleyebilir veya bana ulaşabilirsin 👇</p>
 
-  <a href="./OmerAta_CV_TR.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Özgeçmiş_(TR)-İncele-2ea44f?style=for-the-badge&labelColor=black" alt="Türkçe CV" />
+  <a href="https://www.linkedin.com/in/omeratabebek/">
+    <img src="https://img.shields.io/badge/Mission_Report_(LinkedIn)-Connect-363636?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=101010" alt="LinkedIn" />
   </a>
-   &nbsp; <a href="./OmerAta_CV_EN.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Resume_(EN)-Review-2ea44f?style=for-the-badge&labelColor=black" alt="English CV" />
+  &nbsp;
+  <a href="mailto:omerata@example.com?subject=Contacting%20via%20GitHub">
+    <img src="https://img.shields.io/badge/Bat--Signal_(Gmail)-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
   </a>
 
   <br/><br/>
 
-  <a href="https://www.linkedin.com/in/omeratabebek/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bağlan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:omerata@example.com?subject=Githubdan%20ulaşıyorum">
-    <img src="https://img.shields.io/badge/Gmail-Mail_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
+  <img src="./batsignal.gif" width="300" alt="Bat-Signal Icon"/>
 
----
+  <br/><br/>
 
-<div align="center">
-  <p><i>🐸 Ziyaret ettiğin için teşekkürler! / Thanks for hopping by! 🐸</i></p>
+  <h3>📂 Classified Documents (Resumes)</h3>
+  <a href="./OmerAta_CV_TR.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Özgeçmiş_(TR)-View_File-363636?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="Turkish CV" />
+  </a>
+   &nbsp; 
+  <a href="./OmerAta_CV_EN.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_(EN)-View_File-363636?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700" alt="English CV" />
+  </a>
+
+  <br/><br/>
+  <hr style="border: 1px solid #363636;" />
+  <br/>
+
+  <p style="font-size: 18px;"><i>"I am going from Tuzla to Kadir Has, my road is very long, I really need a Batmobile."</i> 🏎️💨</p>
+  
+  <img src="./batmobile.gif" width="100%" style="border-radius: 10px; margin-top: 10px;"/>
+
 </div>
