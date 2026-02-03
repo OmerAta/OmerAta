@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="./batcat.gif" width="400" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="./batcat.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
   
   <h2 style="color: #FFD700;">🦇 I'm Ömer Ata Bebek</h2>
   <h3>The Dark Knight of Code 🌑</h3>
   
   <p>
     <b>Computer Engineering Student at Kadir Has University.</b><br/>
-    
+    I harness the power of Artificial Intelligence and Software Engineering to build autonomous systems.<br/>
     <i>"It's not who I am underneath, but what I code that defines me."</i>
   </p>
   
