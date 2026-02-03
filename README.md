@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Mission_Report_(LinkedIn)-Connect-363636?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=101010" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:omerata@example.com?subject=Contacting%20via%20GitHub&body=Hello%20Dark%20Knight,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile...">
+  <a href="mailto:omerata@gmail.com?subject=Contacting%20via%20GitHub&body=Hello%20Dark%20Knight,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile...">
     <img src="https://img.shields.io/badge/Bat--Signal_(Gmail)-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
   </a>
 
