@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./batcat.gif" width="400" style="border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="./batcat.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
   
   <h2 style="color: #FFD700;">🦇 I'm Ömer Ata Bebek</h2>
   <h3>The Dark Knight of Code 🌑</h3>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Mission_Report_(LinkedIn)-Connect-363636?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=101010" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:omerata@gmail.com?subject=Contacting%20via%20GitHub&body=Hello%20Dark%20Knight,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile...">
+  <a href="mailto:omerata44@gmail.com?subject=Contacting%20via%20GitHub&body=Hello%20Dark%20Knight,">
     <img src="https://img.shields.io/badge/Bat--Signal_(Gmail)-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
   </a>
 
