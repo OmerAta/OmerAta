@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Mission_Report_(LinkedIn)-Connect-363636?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=101010" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=omerata44@gmail.com&su=GitHub%20İletişim" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=bebekomerata@gmail.com&su=GitHub%20İletişim" target="_blank">
     <img src="https://img.shields.io/badge/Bat--Signal_(Gmail)-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail" />
   </a>
 
