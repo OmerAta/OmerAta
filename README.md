@@ -38,7 +38,7 @@
   <hr style="border: 1px solid #363636;" />
   <br/>
 
-  <p style="font-size: 18px;"><i>"I am going from Tuzla to Kadir Has, my road is very long, I really need a Batmobile."</i> 🏎️💨</p>
+  <p style="font-size: 18px;"><i>"I go from Tuzla to Kadir Has, my road is very long, I really need a Batmobile."</i> 🏎️💨</p>
   
   <img src="./batmobile.gif" width="100%" style="border-radius: 10px; margin-top: 10px;"/>
 
